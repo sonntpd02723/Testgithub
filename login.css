@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url('https://st.quantrimang.com/photos/image/2018/03/02/hinh-nen-28.jpg');
+    background-size: cover;
+}
+form{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 10%;
+    border:  double red ;
+    padding: 2%;
+    background-color: white;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+    text-shadow: rgba(0,0,255,1) -1px -2px 0.5em;
+
+}
